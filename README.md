@@ -1,6 +1,6 @@
 
 Hello, my name is Declan Borcich.
-My interests: Data Science, Quantitative Finance, Statistical Modelling, Information and Uncertainty.
-Currently learning: Data Structures and Algorithms in C++.
+I am interested in Data Science, Quantitative Finance, Statistical Modelling, information and uncertainty.
+I am currently learning: Data Structures and Algorithms in C++, and Web Programming in using CSS, HTML, JavaScript, and Python.
 Email: drborcich@gmail.com
 
